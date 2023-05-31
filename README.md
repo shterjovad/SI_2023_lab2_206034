@@ -6,7 +6,7 @@
 ###  Control Flow Graph
 
 ![ControlFlow drawio](https://github.com/shterjovad/SI_2023_lab2_206034/assets/56770645/a6745d72-9fa0-49e0-bfec-dd4035998a00)
-<img width="1440" alt="Screen Shot 2023-05-31 at 2 13 48 AM" src="https://github.com/shterjovad/SI_2023_lab2_206034/assets/56770645/915da895-78d4-42a5-8b70-b5bae3c20636">
+![Nodes Distribution] (https://github.com/shterjovad/SI_2023_lab2_206034/blob/master/Screen%20Shot%202023-05-31%20at%202.13.48%20AM.png)
 
 
 
